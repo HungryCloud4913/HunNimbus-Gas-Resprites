@@ -7,8 +7,8 @@ minGameVersion: "136"
 dependencies: [
 
 ]
-softDependencies [
+softDependencies {
 extremus-null
 whonk-armadas
-]
+}
 hidden: true
