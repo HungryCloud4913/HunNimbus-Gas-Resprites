@@ -5,7 +5,7 @@ description: "Texture pack for my gas resprites"
 version: "1.0"
 minGameVersion: "136"
 dependencies: [
-extremus-null
-whonk-armadas
+"extremus-null"
+"whonk-armadas"
 ]
 hidden: true
