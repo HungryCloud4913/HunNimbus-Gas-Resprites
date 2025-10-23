@@ -4,8 +4,4 @@ author: "HunNimbus"
 description: "Texture pack for my gas resprites"
 version: "1.0"
 minGameVersion: "136"
-softDependencies: [
-"extremus-null"
-"whonk-armadas"
-]
 hidden: true
