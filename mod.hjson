@@ -1,7 +1,7 @@
-name: "HunNimbus Gas Resprites"
-displayName: "HunNimbus Gas Resprites"
+name: "HunNimbus Item Resprites"
+displayName: "HunNimbus Item Resprites"
 author: "HunNimbus"
-description: "Texture pack for my gas resprites"
+description: "Texture pack for my item resprites"
 version: "1.0"
 minGameVersion: "136"
 hidden: true
